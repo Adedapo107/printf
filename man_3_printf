@@ -52,3 +52,6 @@ _printf("%s, %s %d, %d\\n", weekday, month, day, year);
 .I printf(3)
 .SH BUGS
 No known bugs.
+.SH AUTHOR
+Olaifa Adedapo (Adedapo107)
+Goodnews Okerezi
