@@ -21,8 +21,8 @@
 // int check_percent(int *flag, char aux);
 // #endif
 
-#ifndef HOLBERTON_H
-#define HOLBERTON_H
+#ifndef HEADER_MAIN
+#define HEADER_MAIN
 
 #include <stdarg.h>
 #include <stddef.h>
